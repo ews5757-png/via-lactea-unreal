@@ -1,0 +1,17 @@
+.svn/
+.vs/
+Binaries/
+Build/
+Config/
+Content/
+DerivedDataCache/
+Intermediate/
+Plugins/
+Saved/
+*.sln
+*.suo
+*.user
+*.pdb
+*.dll
+*.exe
+
